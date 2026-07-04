@@ -121,9 +121,9 @@ Citation metadata is also provided in [`CITATION.cff`](CITATION.cff) (use GitHub
 
 | Author | Affiliation | Role |
 |--------|-------------|------|
-| **Ricardo Fuentes-Lama** | Facultad de Economía y Negocios, Universidad Andrés Bello, Chile | <!-- ORCID: 0000-0000-0000-0000 --> Corresponding author <!-- email --> |
-| **Luis Gibran Juárez-Hernández** | Centro Universitario CIFE, México | <!-- ORCID --> |
-| **Ricardo Monge-Rogel** | Instituto de Matemática, Física y Estadística, Universidad de Las Américas, Chile | <!-- ORCID --> |
+| **Ricardo Fuentes-Lama** | Facultad de Economía y Negocios, Universidad Andrés Bello, Chile | <!-- ORCID: 0000-0000-0000-0000 --> Author <!-- email --> |
+| **Luis Gibran Juárez-Hernández** | Centro Universitario CIFE, México | <!-- ORCID --> Corresponding author <!-- email --> |
+| **Ricardo Monge-Rogel** | Instituto de Matemática, Física y Estadística, Universidad de Las Américas, Chile | <!-- ORCID --> Author <!-- email --> |
 
 ## License
 
