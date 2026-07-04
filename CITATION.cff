@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: >-
+  EEAI-Chile: Data and code for the design and initial validation of a
+  comprehensive academic engagement scale for Chilean university faculty
+type: software
+authors:
+  - family-names: Fuentes-Lama
+    given-names: Ricardo
+    affiliation: "Facultad de Economía y Negocios, Universidad Andrés Bello, Chile"
+    # orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Juárez-Hernández
+    given-names: Luis Gibran
+    affiliation: "Centro Universitario CIFE, México"
+    # orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Monge-Rogel
+    given-names: Ricardo
+    affiliation: "Instituto de Matemática, Física y Estadística, Universidad de Las Américas, Chile"
+    # orcid: https://orcid.org/0000-0000-0000-0000
+version: 1.0.0
+date-released: "2026-07-04"
+license: MIT
+repository-code: "https://github.com/<USERNAME>/EEAI-Chile-Validation"
+keywords:
+  - academic engagement
+  - scale validation
+  - content validity
+  - Aiken's V
+  - reliability
+  - higher education
+  - Chile
+preferred-citation:
+  type: article
+  title: >-
+    Diseño y validación inicial de una escala integral de engagement académico
+    para el profesorado universitario chileno
+  authors:
+    - family-names: Fuentes-Lama
+      given-names: Ricardo
+    - family-names: Juárez-Hernández
+      given-names: Luis Gibran
+    - family-names: Monge-Rogel
+      given-names: Ricardo
+  year: 2026
+  status: in-preparation

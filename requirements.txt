@@ -1,0 +1,18 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Excel I/O
+openpyxl>=3.1
+
+# Plotting (Aiken's V forest plot)
+matplotlib>=3.7
+
+# APA 7 Word-table export
+python-docx>=1.1
+tabulate>=0.9
+
+# Notebook environment
+jupyterlab>=4.0
+ipython>=8.0
