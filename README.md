@@ -62,7 +62,7 @@ The validation reported here comprises two stages:
 - Dependencies listed in [`requirements.txt`](requirements.txt)
 
 ```bash
-git clone https://github.com/<USERNAME>/EEAI-Chile-Validation.git
+git clone https://github.com/ricardomonge/EEAI-Chile-Validation.git
 cd EEAI-Chile-Validation
 pip install -r requirements.txt
 ```
@@ -111,7 +111,7 @@ If you use this repository, please cite both the article (once published) and th
                comprehensive academic engagement scale for Chilean university faculty},
   year      = {2026},
   publisher = {GitHub},
-  url       = {https://github.com/<USERNAME>/EEAI-Chile-Validation}
+  url       = {https://github.com/ricardomonge/EEAI-Chile-Validation}
 }
 ```
 
