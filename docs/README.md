@@ -19,10 +19,6 @@ Ready-to-paste wording for the journal submission (adjust the DOI once the repos
 **Code availability statement.**
 > All analysis code (Python/Jupyter notebooks) used to compute Aiken's V content-validity coefficients, reliability estimates (Cronbach's α, ordinal α, McDonald's ω with bootstrap confidence intervals), and to generate all tables and figures is openly available in the same repository under the MIT License, together with instructions for full reproduction of the reported results.
 
-**Versión en español (por si la revista lo requiere):**
-
-**Declaración de disponibilidad de datos.**
-> Los conjuntos de datos anonimizados generados y analizados durante el presente estudio (valoraciones del juicio de expertos y respuestas de la encuesta piloto) están disponibles públicamente en el repositorio EEAI-Chile-Validation, https://github.com/<USERNAME>/EEAI-Chile-Validation (archivado en https://doi.org/10.5281/zenodo.XXXXXXX), bajo licencia CC BY 4.0. Para proteger la privacidad de los participantes, se eliminaron las marcas temporales de respuesta, las afiliaciones institucionales y los comentarios de texto abierto antes de su publicación.
 
 **Declaración de disponibilidad de código.**
 > Todo el código de análisis (Python/cuadernos Jupyter) utilizado para calcular los coeficientes V de Aiken, las estimaciones de fiabilidad (α de Cronbach, α ordinal, ω de McDonald con intervalos de confianza bootstrap) y para generar todas las tablas y figuras está disponible públicamente en el mismo repositorio bajo licencia MIT, junto con las instrucciones para la reproducción completa de los resultados reportados.
