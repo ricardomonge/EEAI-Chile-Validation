@@ -8,7 +8,7 @@
 
 This repository contains the anonymized data, analysis code, and reproducible outputs for the research article:
 
-> **Fuentes-Lama, R., Juárez-Hernández, L. G., & Monge-Rogel, R.** (2026). *Diseño y validación inicial de una escala integral de engagement académico para el profesorado universitario chileno* [Design and initial validation of a comprehensive academic engagement scale for Chilean university faculty]. Manuscript in preparation.
+> **Fuentes-Lama, R., Juárez-Hernández, L. G., & Monge-Rogel, R.** (2026). *Diseño y validación inicial de una escala integral de engagement académico para el profesorado universitario chileno* [Design and initial validation of a comprehensive academic engagement scale for Chilean university faculty]. Manuscript under review.
 
 ## Overview
 
