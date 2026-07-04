@@ -50,7 +50,9 @@ The public dataset was de-identified before publication:
 
 1. **Timestamps** of form submission were replaced with sequential participant IDs (`P001`–`P104`).
 2. **Institution names** (column 2) were deleted.
-3. **Open-text comments** (column 45) were deleted.
-4. No names, emails, or other direct identifiers were collected by the form.
+3. **marital status** were deleted.
+4. **children** were deleted.
+5. **Open-text comments** (column 45) were deleted.
+6. No names, emails, or other direct identifiers were collected by the form.
 
 Remaining variables (age, gender, discipline, contract type, etc.) are retained at their original granularity because, with institutional affiliation removed, the residual re-identification risk in a national population of university faculty is considered very low. The original (non-anonymized) export is **not** distributed and is excluded from version control (see `.gitignore`).
