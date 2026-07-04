@@ -37,7 +37,7 @@ Key columns (0-based position, as used by the notebooks):
 | 0 | `participant_id` (P001–P104; replaces original timestamps — see anonymization below) |
 | 1 | Informed-consent confirmation (constant acceptance string) |
 | 2 | Institution — **values removed** for anonymization (empty column retained to preserve positions) |
-| 3–15 | Sociodemographic / professional variables: contract type, weekly teaching hours, working regime, OECD field (Frascati), years of experience, degree, gender, age, research activity, management role, marital status, children, MacArthur subjective status ladder |
+| 3–15 | Sociodemographic / professional variables: contract type, weekly teaching hours, working regime, OECD field (Frascati), years of experience, degree, gender, age, research activity, management role, marital status **(values removed)**, children **(values removed)**, MacArthur subjective status ladder |
 | 16–44 | The 29 EEAI-Chile items (5-point Likert, 1–5), in dimension order: D1 (16–20), D2 (21–25), D3 (26–29), D4 (30–34), D5 (35–39), D6 (40–44) |
 | 45 | Open-text suggestions — **values removed** for anonymization |
 | 46–49 | Participants' evaluation of the instrument (instructions clarity, item clarity, satisfaction, relevance) |
