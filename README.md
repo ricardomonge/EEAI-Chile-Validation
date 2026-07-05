@@ -34,7 +34,7 @@ The validation reported here comprises two stages:
 .
 ├── README.md                  <- This file
 ├── LICENSE                    <- MIT License (code)
-├── CITATION.cff               <- Citation metadata (GitHub "Cite this repository")
+├── CITATION.cff               <- Citation metadata (GitHub)
 ├── requirements.txt           <- Python dependencies
 ├── data/
 │   ├── README.md              <- Data dictionary and anonymization notes
