@@ -3,6 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/Code%20License-MIT-yellow.svg)](LICENSE)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Open Data](https://img.shields.io/badge/Open%20Science-Open%20Data-005587?style=flat&logo=osf&logoColor=white)](https://github.com/ricardomonge/EEAI-Chile-Validation/tree/main/data)
+[![Open Code](https://img.shields.io/badge/Open%20Science-Open%20Code-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/ricardomonge/EEAI-Chile-Validation/tree/main/notebooks)
+[![Reproducible](https://img.shields.io/badge/Reproducible-Jupyter%20%7C%20Python%203.10+-F37626?style=flat&logo=jupyter&logoColor=white)](https://github.com/ricardomonge/EEAI-Chile-Validation/tree/main/notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ricardomonge/EEAI-Chile-Validation/main?urlpath=lab/tree/notebooks)
 <!-- After archiving a release on Zenodo, add the DOI badge here:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 
