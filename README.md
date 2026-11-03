@@ -17,7 +17,7 @@ The **EEAI-Chile** (Escala de Engagement Académico Integral) is a 29-item, 5-po
 | Code | Dimension |
 |------|-----------|
 | D1 | Teaching vitality, dedication, and absorption |
-| D2 | Social engagement and impact |
+| D2 | Outreach and Social Impact |
 | D3 | Digital agency and information technologies |
 | D4 | Fairness and contractual environment |
 | D5 | Academic leadership and support |
